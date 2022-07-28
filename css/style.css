@@ -42,7 +42,7 @@ body {
     top: 35%;
     left: 50%;
     transform:translate(-50%,-35%);
-    width: 250px;
+    min-width: 250px;
     height: 120px;
     font-size: 100px;
     border-radius: 15px;
